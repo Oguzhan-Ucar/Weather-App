@@ -2,4 +2,4 @@
 
 This project deployed with github >>>
 
-<img src="images/weather-app.gif">
+<img src="weather-app.gif">
